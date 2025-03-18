@@ -1,0 +1,2 @@
+There are no dependencies for this project.
+All the libraries/headers used in this project come with the MSVC kit inbuilt with Visual Studio environment.
